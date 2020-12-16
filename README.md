@@ -2,8 +2,13 @@
 
 This is a repo used to build custom Yi Outdoor Security Camera
 
+***
 
 ### Uploading Footage To Google Drive
+
+***
+
+### Deleting Footage On Camera Device
 
 There is a script that is manually put on the camera in the home dir. It is manually triggered `./footageRetentionPolicy.sh` and runs indefinitely. 
 
