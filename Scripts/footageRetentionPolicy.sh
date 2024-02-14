@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "STARTING footageDeletionPolicy.sh" >> ~/footageDeletionLog.txt;
+echo "STARTING $(date) footageDeletionPolicy.sh" >> ~/footageDeletionLog.txt;
 
 while true; do
     sleep 86400;
